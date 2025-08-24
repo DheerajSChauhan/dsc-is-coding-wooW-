@@ -11,21 +11,32 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int cnt = 0;
-        ListNode* temp = head;
-        while( temp != nullptr){
-            cnt++;
-            temp= temp->next;
+        
+        //Optimal Solution
+        ListNode* fast = head;
+        ListNode* slow = head;
+        while(fast != nullptr && fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int midNode = cnt/2 + 1;
-        temp = head;
-        while(temp != nullptr){
-            midNode = midNode-1;
-            if(midNode == 0){
-                break;
-            }
-            temp= temp->next;
-        }
-        return temp;
+        return slow;
+
+        //Brute Force Solution
+        // int cnt = 0;
+        // ListNode* temp = head;
+        // while( temp != nullptr){
+        //     cnt++;
+        //     temp= temp->next;
+        // }
+        // int midNode = cnt/2 + 1;
+        // temp = head;
+        // while(temp != nullptr){
+        //     midNode = midNode-1;
+        //     if(midNode == 0){
+        //         break;
+        //     }
+        //     temp= temp->next;
+        // }
+        // return temp;
     }
 };
