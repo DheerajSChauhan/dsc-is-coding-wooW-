@@ -16,6 +16,7 @@
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -24,4 +25,9 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+## String
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
