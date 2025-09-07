@@ -7,6 +7,7 @@
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1046-max-consecutive-ones-iii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
