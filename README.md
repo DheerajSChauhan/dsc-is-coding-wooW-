@@ -20,13 +20,19 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0076-minimum-window-substring) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
 ## Counting
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
