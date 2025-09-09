@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+| [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,4 +17,16 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
