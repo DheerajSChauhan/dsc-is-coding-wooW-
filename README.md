@@ -35,4 +35,20 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
