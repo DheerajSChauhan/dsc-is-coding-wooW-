@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,16 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0145-binary-tree-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
