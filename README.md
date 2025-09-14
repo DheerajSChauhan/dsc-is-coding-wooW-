@@ -40,12 +40,14 @@
 | [0076-minimum-window-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
