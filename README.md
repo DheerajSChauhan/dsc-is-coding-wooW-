@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
