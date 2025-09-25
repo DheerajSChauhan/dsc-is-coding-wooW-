@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0792-binary-search) |
 | [1034-subarrays-with-k-different-integers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -17,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0344-reverse-string) |
 ## Math
 |  |
