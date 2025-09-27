@@ -15,4 +15,28 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
