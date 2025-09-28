@@ -45,4 +45,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
