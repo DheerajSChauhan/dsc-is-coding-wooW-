@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
