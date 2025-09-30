@@ -48,5 +48,6 @@
 ## Database
 |  |
 | ------- |
+| [1415-students-and-examinations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
