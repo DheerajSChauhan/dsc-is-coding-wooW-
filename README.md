@@ -20,6 +20,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
