@@ -7,14 +7,17 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0199-binary-tree-right-side-view) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +54,8 @@
 | ------- |
 | [1415-students-and-examinations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1415-students-and-examinations) |
 | [1827-invalid-tweets](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1827-invalid-tweets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
