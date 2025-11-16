@@ -6,6 +6,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0007-reverse-integer) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
