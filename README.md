@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
