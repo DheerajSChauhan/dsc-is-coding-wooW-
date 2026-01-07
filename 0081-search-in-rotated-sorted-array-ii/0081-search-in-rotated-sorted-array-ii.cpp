@@ -19,8 +19,6 @@ public:
     }
 
     int binarySearch(int l, int h, vector<int>& nums, int target) {
-        int idx = -1;
-
         while (l <= h) {
             int mid = l+(h-l)/2;
             if (nums[mid] == target) {
