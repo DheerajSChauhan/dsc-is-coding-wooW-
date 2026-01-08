@@ -61,6 +61,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
