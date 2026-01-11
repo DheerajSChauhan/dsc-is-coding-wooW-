@@ -37,6 +37,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0620-not-boring-movies) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
