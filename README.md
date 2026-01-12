@@ -40,6 +40,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,10 +110,12 @@
 |  |
 | ------- |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
