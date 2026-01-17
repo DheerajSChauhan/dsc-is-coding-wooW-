@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Bit Manipulation
@@ -63,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
@@ -88,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0073-set-matrix-zeroes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Matrix
