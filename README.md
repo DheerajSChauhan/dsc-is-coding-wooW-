@@ -46,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
@@ -101,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0053-maximum-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
