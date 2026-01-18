@@ -39,6 +39,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
@@ -70,6 +71,7 @@
 | [0038-count-and-say](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
