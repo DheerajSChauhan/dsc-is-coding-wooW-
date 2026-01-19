@@ -74,6 +74,7 @@
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
+| [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
+| [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
