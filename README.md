@@ -39,6 +39,7 @@
 | [0875-koko-eating-bananas](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1470-shuffle-the-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1929-concatenation-of-array) |
