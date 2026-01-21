@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
+| [1903-largest-odd-number-in-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1903-largest-odd-number-in-string) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Prefix Sum
