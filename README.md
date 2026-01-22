@@ -82,6 +82,7 @@
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
