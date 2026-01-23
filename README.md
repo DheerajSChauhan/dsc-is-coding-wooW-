@@ -85,6 +85,7 @@
 | [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
