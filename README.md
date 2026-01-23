@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -81,6 +82,7 @@
 | [0038-count-and-say](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Matrix
 |  |
