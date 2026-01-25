@@ -187,4 +187,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
