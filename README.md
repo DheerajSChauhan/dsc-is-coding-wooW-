@@ -19,6 +19,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0203-remove-linked-list-elements) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Array
 |  |
@@ -190,5 +191,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
