@@ -65,6 +65,7 @@
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -193,4 +194,5 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
