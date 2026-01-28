@@ -9,6 +9,7 @@
 | [0007-reverse-integer](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+| [0382-linked-list-random-node](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0382-linked-list-random-node) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [1903-largest-odd-number-in-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1903-largest-odd-number-in-string) |
@@ -196,6 +197,15 @@
 | [0203-remove-linked-list-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
