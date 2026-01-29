@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0206-reverse-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
 ## Array
 |  |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0382-linked-list-random-node) |
