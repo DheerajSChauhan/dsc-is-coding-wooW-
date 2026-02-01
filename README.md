@@ -8,6 +8,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0382-linked-list-random-node) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
@@ -20,6 +21,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0234-palindrome-linked-list) |
