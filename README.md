@@ -14,6 +14,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [1903-largest-odd-number-in-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0206-reverse-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
+| [1922-count-good-numbers](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
