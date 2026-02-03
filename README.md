@@ -52,6 +52,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1470-shuffle-the-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1929-concatenation-of-array) |
@@ -74,6 +75,7 @@
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -83,6 +85,7 @@
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## String
 |  |
@@ -120,6 +123,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
