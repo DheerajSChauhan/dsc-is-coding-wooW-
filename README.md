@@ -40,6 +40,7 @@
 | [0053-maximum-subarray](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -96,6 +97,7 @@
 | [0014-longest-common-prefix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,4 +233,9 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
