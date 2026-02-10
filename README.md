@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0795-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0875-koko-eating-bananas](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1470-shuffle-the-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -143,6 +145,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [0022-generate-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
