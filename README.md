@@ -196,6 +196,7 @@
 | [0620-not-boring-movies](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1193-monthly-transactions-i) |
+| [1280-students-and-examinations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1280-students-and-examinations) |
 ## Simulation
 |  |
 | ------- |
