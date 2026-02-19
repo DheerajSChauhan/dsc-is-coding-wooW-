@@ -160,12 +160,14 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -245,4 +247,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
