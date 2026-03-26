@@ -63,6 +63,7 @@
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
@@ -171,6 +172,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
+| [2104-sum-of-subarray-ranges](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2104-sum-of-subarray-ranges) |
 ## Interactive
 |  |
 | ------- |
