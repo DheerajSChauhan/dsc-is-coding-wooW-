@@ -108,6 +108,7 @@
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0907-sum-of-subarray-minimums) |
@@ -188,6 +191,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1903-largest-odd-number-in-string) |
 | [2439-minimize-maximum-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
