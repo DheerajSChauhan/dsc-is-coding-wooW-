@@ -50,6 +50,7 @@
 | [0485-max-consecutive-ones](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0875-koko-eating-bananas) |
@@ -82,6 +83,7 @@
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0658-find-k-closest-elements) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +135,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -279,6 +283,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -296,4 +301,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
