@@ -54,6 +54,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
@@ -92,6 +93,7 @@
 | [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 ## Database
 |  |
 | ------- |
@@ -273,4 +276,24 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0901-online-stock-span) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
