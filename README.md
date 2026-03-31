@@ -60,6 +60,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1470-shuffle-the-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1539-kth-missing-positive-number) |
@@ -99,6 +100,7 @@
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -153,6 +155,7 @@
 | [0073-set-matrix-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Matrix
