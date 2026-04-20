@@ -47,6 +47,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0658-find-k-closest-elements) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
@@ -154,6 +156,7 @@
 | [0012-integer-to-roman](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1636-sort-array-by-increasing-frequency) |
