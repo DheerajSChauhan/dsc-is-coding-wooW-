@@ -60,6 +60,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1470-shuffle-the-array) |
@@ -124,6 +125,7 @@
 | [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0944-delete-columns-to-make-sorted) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -333,8 +335,10 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
