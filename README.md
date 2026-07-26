@@ -62,6 +62,7 @@
 | [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1470-shuffle-the-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -170,6 +171,7 @@
 | [0074-search-a-2d-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0980-unique-paths-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
