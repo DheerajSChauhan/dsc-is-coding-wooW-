@@ -287,6 +287,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
+| [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -333,6 +334,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -345,6 +347,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -353,6 +356,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
