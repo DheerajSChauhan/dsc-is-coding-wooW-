@@ -71,6 +71,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1929-concatenation-of-array) |
+| [2097-valid-arrangement-of-pairs](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2097-valid-arrangement-of-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2187-minimum-time-to-complete-trips) |
@@ -291,6 +292,7 @@
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2097-valid-arrangement-of-pairs](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Design
 |  |
@@ -362,6 +364,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1584-min-cost-to-connect-all-points) |
+| [2097-valid-arrangement-of-pairs](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Shortest Path
 |  |
@@ -371,4 +374,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1584-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
