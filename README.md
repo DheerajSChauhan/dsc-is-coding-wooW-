@@ -294,6 +294,7 @@
 | [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2097-valid-arrangement-of-pairs](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -343,6 +344,7 @@
 | [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -367,6 +369,7 @@
 | [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
+| [0841-keys-and-rooms](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1584-min-cost-to-connect-all-points) |
