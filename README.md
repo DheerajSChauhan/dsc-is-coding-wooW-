@@ -47,6 +47,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0189-rotate-array) |
+| [0399-evaluate-division](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
@@ -123,6 +124,7 @@
 | [0125-valid-palindrome](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0796-rotate-string) |
@@ -288,6 +290,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0079-word-search) |
+| [0399-evaluate-division](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
@@ -336,6 +339,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0399-evaluate-division](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
@@ -349,6 +353,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
@@ -358,6 +363,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
@@ -369,6 +375,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0743-network-delay-time) |
 ## Minimum Spanning Tree
 |  |
