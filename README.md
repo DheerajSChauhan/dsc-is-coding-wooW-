@@ -64,6 +64,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1470-shuffle-the-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -107,6 +108,7 @@
 | [0899-orderly-queue](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0899-orderly-queue) |
 | [0912-sort-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0977-squares-of-a-sorted-array) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -165,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0496-next-greater-element-i) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1331-rank-transform-of-an-array](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -346,6 +349,7 @@
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
@@ -371,6 +375,7 @@
 | [0785-is-graph-bipartite](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0841-keys-and-rooms) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/0990-satisfiability-of-equality-equations) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/DheerajSChauhan/dsc-is-coding-wooW-/tree/master/2097-valid-arrangement-of-pairs) |
